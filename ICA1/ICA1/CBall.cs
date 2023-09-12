@@ -1,4 +1,14 @@
-﻿using GDIDrawer;
+﻿/////////////////////////////////////////////////////////
+///Caleb Oshust
+///Sept 11, 2023
+///CMPE 2300
+///ICA1 Balls
+///
+///Generate instances of ball class and move them in renderer
+///Submission Code : 1231_2300_A01
+//////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////
+using GDIDrawer;
 using System;
 using System.Collections.Generic;
 using System.Drawing;
